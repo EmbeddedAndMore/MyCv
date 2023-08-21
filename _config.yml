@@ -86,25 +86,25 @@ content:
         quote: >
           An IT/Security/Software infrastructure provider company in Germany.
         description: | # this will include new lines to allow paragraphs
-            **Backend Development:** Full-Stack Django based CISCO Identity Services Engine (ISE) manager.<br/>
-            **Backend/Development:** Online healthcare appointment (telemedication) platform.<br/>
-            **IoT Data engineering:** Large scale store equipment monitoring/maintenance.
-            #### Tech-Stack
-            - Django, Celery, MySql, Redis, Numpy, Pandas, Dask, JS, Async, Multiprocess
-            - FastApi, MySql, Redis
-            - Embedded C, Django, Numpy, Dask, InfluxDB, Apcahe Kafka, Storm
-            #### Software Architechture
-            - Clean code, event-driven
-            - DDD
-            - Microservice, Clean code
-            #### Design paterns
-            - Repository, Singleton, Unit of Work, Decorator
-            - Repository, Singleton, Unit of Work, Decorator,Adapter, 
-            - Repository, Decorator, Adapter
-            #### Deployement
-            - Docker, docker-compose
-            - Docker, Kubernites
-            - Docker, Kubernites
+          **Backend Development:** Full-Stack Django based CISCO Identity Services Engine (ISE) manager.<br/>
+          **Backend/Development:** Online healthcare appointment (telemedication) platform.<br/>
+          **IoT Data engineering:** Large scale store equipment monitoring/maintenance.
+          #### Tech-Stack
+          - Django, Celery, MySql, Redis, Numpy, Pandas, Dask, JS, Async, Multiprocess
+          - FastApi, MySql, Redis
+          - Embedded C, Django, Numpy, Dask, InfluxDB, Apcahe Kafka, Storm
+          #### Software Architechture
+          - Clean code, event-driven
+          - DDD
+          - Microservice, Clean code
+          #### Design paterns
+          - Repository, Singleton, Unit of Work, Decorator
+          - Repository, Singleton, Unit of Work, Decorator,Adapter, 
+          - Repository, Decorator, Adapter
+          #### Deployement
+          - Docker, docker-compose
+          - Docker, Kubernites
+          - Docker, Kubernites
       - layout: left
         title: fabforce GmbH & Co. KG
         link: www.fabforce.com
