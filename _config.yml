@@ -89,22 +89,22 @@ content:
           **Backend Development:** Full-Stack Django based CISCO Identity Services Engine (ISE) manager.<br/>
           **Backend/Development:** Online healthcare appointment (telemedication) platform.<br/>
           **IoT Data engineering:** Large scale store equipment monitoring/maintenance.
-          ##### Tech-Stack
+          #### Tech-Stack
           - Django, Celery, MySql, Redis, Numpy, Pandas, Dask, JS, Async, Multiprocess
           - FastApi, MySql, Redis
           - Embedded C, Django, Numpy, Dask, InfluxDB, Apcahe Kafka, Storm
 
-          ##### Software Architechture
+          #### Software Architechture
           - Clean code, event-driven
           - DDD
           - Microservice, Clean code
 
-          ##### Design paterns
+          #### Design paterns
           - Repository, Singleton, Unit of Work, Decorator
           - Repository, Singleton, Unit of Work, Decorator,Adapter, 
           - Repository, Decorator, Adapter
-          
-          ##### Deployement
+
+          #### Deployement
           - Docker, docker-compose
           - Docker, Kubernites
           - Docker, Kubernites
@@ -120,10 +120,13 @@ content:
             #### Tech-Stack
             - Dask, Celery, Numpy, Scipy, Scikit-learn, Flask, Python, C++, PyBind11,, Streamz
             - Interfaces: S7, MQTT, OPC-UA, Serial
+
             #### Software Architechture
             - Clean code, Microservice
+
             #### Design paterns
             - Repository, Singleton, Decorator, Adapter
+
             #### Deployement
             - Docker, docker-compose
       - layout: left
@@ -137,10 +140,13 @@ content:
             **Software developer:** Data aggregation, real-time preprocessing and analysis (ELT, ETL)
             #### Tech-Stack
             -  Celery, Flask, Numpy, Pandas, Scikit-learn, WPF
+
             #### Software Architechture
             - Clean code, DDD
+            
             #### Design paterns
             - Singleton, Decorator, Adapter
+
             #### Deployement
             - Docker, docker-compose, exe installer
 
