@@ -150,19 +150,91 @@ content:
             #### Deployement
             - Docker, docker-compose, exe installer
 
+      - layout: left
+        title: Pardik Electronic
+        link: pardikelectronic.com
+        sub_title: Software Developer
+        caption: Jan 2018 - May 2019
+        quote: >
+          Video management system for large-scale survailance systems including ML powered analysis.
+        description: | # this will include new lines to allow paragraphs
+            **Software developer:** Renderer, encoder/decoder. GUI for camera visualization.
+            #### Tech-Stack
+            -  C++, Boost, WPF, WCF
+
+            #### Software Architechture
+            - Clean code, DDD
+            
+            #### Design paterns
+            - Singleton, Adapter, Singleton, Factory, Builder.
+
+            #### Deployement
+            - MSI installer.
+
+      - layout: left
+        title: Dowranset
+        link: dowranset.com
+        sub_title: Embedded/Desktop Software developer
+        caption: Jan 2014 - Dec 2017
+        quote: >
+          Startup in the field of renewable energies and arial surveilance.
+        description: | # this will include new lines to allow paragraphs
+            **Software developer:** Flight controller specialized for aerial survailance.
+            #### Tech-Stack
+            -  C, C++, Qt, STM32-F4, Real-time, FreeRTOS, chibiOS
+        
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: Duisburg-Essen University
+        caption: 2010 - 2013
+        sub_title: MSc Computer engineering - Intelligent networked systems.
+        quote: >
+          Computer engineering focused in IoT, Protocols, Data engineering and machine learning.
+        description: | # this will include new lines to allow paragraphs
+          Thesis: 3D pedestrian tracking using visual features.
+
+      - layout: left
+        title: QIAU University
         caption: 2010 - 2013
         sub_title: BSc Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          First university in the field of robotics and mechatronics.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Thesis: Online taxi reservation both server and android application. Scalability, Payment and load balancing.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Medical Imaging report manager.
+        caption: 2014 - 2015
+        # sub_title: MSc Computer engineering - Intelligent networked systems.
+        # quote: >
+        #   Computer engineering focused in IoT, Protocols, Data engineering and machine learning.
+        description: | # this will include new lines to allow paragraphs
+          "AI assisted report generation with connecting directly to Ultrasound, Colonoscope and Endoscopy devices and also **DICOM**(and/or HIS) to generated report."
+      
+      - layout: left
+        title: Building Facade LED controller.
+        caption: 2015 - 2015
+        description: | # this will include new lines to allow paragraphs
+          "Power LED array controller for buildings of a large complex. controllable using Wifi and using Desktop/Mobile app. multiple lighting scenarios including music reactivation."
+
+      - layout: left
+        title: Full-Feature smarthome prototype.
+        caption: 2016 - 2017
+        description: | # this will include new lines to allow paragraphs
+          "Provide different scensing and actuationg module for proof of concepts. inclusinf TVOC, Motion sensing, Water leak, door and window sensor, smart doorbell, smart switch, plugs, blind, curtain and IR media controller. this projected implemented with different wireless and wired protocol including KNX, CAN-bus, Wifi, Zigbee, Z-Wave, BLE"
+
+      - layout: left
+        title: Proof of concept for an Edge devide.
+        caption: 2021 - 2021
+        description: | # this will include new lines to allow paragraphs
+          "AI-based analysis and compression of brain signal using FPGA."
+      
 
   - title: A Little More About Me
     layout: text
