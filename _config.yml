@@ -215,25 +215,25 @@ content:
         # quote: >
         #   Computer engineering focused in IoT, Protocols, Data engineering and machine learning.
         description: | # this will include new lines to allow paragraphs
-          "AI assisted report generation with connecting directly to Ultrasound, Colonoscope and Endoscopy devices and also **DICOM**(and/or HIS) to generated report."
+          AI assisted report generation with connecting directly to Ultrasound, Colonoscope and Endoscopy devices and also **DICOM**(and/or HIS) to generated report.
       
       - layout: left
         title: Building Facade LED controller.
         caption: 2015 - 2015
         description: | # this will include new lines to allow paragraphs
-          "Power LED array controller for buildings of a large complex. controllable using Wifi and using Desktop/Mobile app. multiple lighting scenarios including music reactivation."
+          Power LED array controller for buildings of a large complex. controllable using Wifi and using Desktop/Mobile app. multiple lighting scenarios including music reactivation.
 
       - layout: left
         title: Full-Feature smarthome prototype.
         caption: 2016 - 2017
         description: | # this will include new lines to allow paragraphs
-          "Provide different scensing and actuationg module for proof of concepts. inclusinf TVOC, Motion sensing, Water leak, door and window sensor, smart doorbell, smart switch, plugs, blind, curtain and IR media controller. this projected implemented with different wireless and wired protocol including KNX, CAN-bus, Wifi, Zigbee, Z-Wave, BLE"
+          Provide different scensing and actuationg module for proof of concepts. inclusinf TVOC, Motion sensing, Water leak, door and window sensor, smart doorbell, smart switch, plugs, blind, curtain and IR media controller. this projected implemented with different wireless and wired protocol including KNX, CAN-bus, Wifi, Zigbee, Z-Wave, BLE
 
       - layout: left
         title: Proof of concept for an Edge devide.
         caption: 2021 - 2021
         description: | # this will include new lines to allow paragraphs
-          "AI-based analysis and compression of brain signal using FPGA."
+          AI-based analysis and compression of brain signal using FPGA.
       
 
   - title: A Little More About Me
