@@ -93,10 +93,12 @@ content:
           - Django, Celery, MySql, Redis, Numpy, Pandas, Dask, JS, Async, Multiprocess
           - FastApi, MySql, Redis
           - Embedded C, Django, Numpy, Dask, InfluxDB, Apcahe Kafka, Storm
+
           #### Software Architechture
           - Clean code, event-driven
           - DDD
           - Microservice, Clean code
+          
           #### Design paterns
           - Repository, Singleton, Unit of Work, Decorator
           - Repository, Singleton, Unit of Work, Decorator,Adapter, 
