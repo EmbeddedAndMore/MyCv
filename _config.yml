@@ -220,14 +220,22 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      | programming<br/> Languages   |  Web<br/>Frameworks   |  Databases| DevOps | Architecture &<br/>Design |libs |Embedded | System Design
+      |----------|:-------------:|:------:|:------:|:------:|:------:|:------:|------:|
+      | C      | Flask    | Sqlite          | Docker  | CleanCode   | OpenCv   | STM32   | REST
+      | C++ 1x | FastApi  | MySql (MariaDB) | Argo CD | DDD         | Numpy    | AVR     | GraphQL
+      | Python | Django   | Postgres        | Jenkins | Microservice| PyBind11 | SPI     | SOAP
+      | C#     | Node     | MSSQL           |         | Sigleton    | PyTorch  | I2C     | RPC
+      | Rust   |ASP(Core) |                 |         | Proxy       | Sk-Learn | UART    | Real-Time
+      |        |          |                 |         | Repository  | SciPy    | DMA     | Client-Server
+      |        |          |                 |         | Adapter     | MlPack   | Timers  | Pub-Sub
+      |        |          |                 |         | Builder     | WPF      | WDC     | Multi-Thread
+      |        |          |                 |         | Factory     | WCF      | LwIP    | Multi-Process
+      |        |          |                 |         |             | LinQ     | FatFs   |
+      |        |          |                 |         |             | Entity FW| SWIO    |
+      |        |          |                 |         |             |          | CAN-Bus |
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
 
 # Footer
 footer_show_references: true
