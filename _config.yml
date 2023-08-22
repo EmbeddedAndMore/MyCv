@@ -97,18 +97,18 @@ content:
         quote: >
           Intelligent data analysis specialied for factories, plants and production line to improve productivity and yield, lower maintenance costs and reduce defects in production.
         description: | # this will include new lines to allow paragraphs
-            **Data engineering:** Data aggregation, real-time preprocessing and analysis (ELT, ETL).
-            #### Tech-Stack
+            **Data engineering:** Data aggregation, real-time preprocessing and analysis (ELT, ETL).<br/>
+            **Tech-Stack:**<br/>
             - Dask, Celery, Numpy, Scipy, Scikit-learn, Flask, Python, C++, PyBind11,, Streamz
             - Interfaces: S7, MQTT, OPC-UA, Serial
 
-            #### Software Architechture
+            **Software Architechture:**<br/>
             - Clean code, Microservice
 
-            #### Design paterns
+            **Design paterns:**<br/>
             - Repository, Singleton, Decorator, Adapter
 
-            #### Deployement
+            **Deployement:**<br/>
             - Docker, docker-compose
       - layout: left
         title: eido Data
@@ -118,17 +118,17 @@ content:
         quote: >
           Providing ML tool for visualization, Preprocessing and Model management tool specialized for metalorgy applications.
         description: | # this will include new lines to allow paragraphs
-            **Software developer:** Data aggregation, real-time preprocessing and analysis (ELT, ETL)
-            #### Tech-Stack
+            **Software developer:** Backend development, data pipeline and visualization.<br/>
+            **Tech-Stack:**<br/>
             -  Celery, Flask, Numpy, Pandas, Scikit-learn, WPF
 
-            #### Software Architechture
+            **Software Architechture:**<br/>
             - Clean code, DDD
             
-            #### Design paterns
+            **Design paterns:**<br/>
             - Singleton, Decorator, Adapter
 
-            #### Deployement
+            **Deployement:**<br/>
             - Docker, docker-compose, exe installer
 
       - layout: left
@@ -139,17 +139,17 @@ content:
         quote: >
           Video management system for large-scale survailance systems including ML powered analysis.
         description: | # this will include new lines to allow paragraphs
-            **Software developer:** Renderer, encoder/decoder. GUI for camera visualization.
-            #### Tech-Stack
+            **Software developer:** Renderer, encoder/decoder. GUI for camera visualization.<br/>
+            **Tech-Stack:**<br/>
             -  C++, Boost, WPF, WCF
 
-            #### Software Architechture
+            **Software Architechture:**<br/>
             - Clean code, DDD
             
-            #### Design paterns
+            **Design paterns:**<br/>
             - Singleton, Adapter, Singleton, Factory, Builder.
 
-            #### Deployement
+            **Deployement:**<br/>
             - MSI installer.
 
       - layout: left
@@ -160,8 +160,8 @@ content:
         quote: >
           Startup in the field of renewable energies and arial surveilance.
         description: | # this will include new lines to allow paragraphs
-            **Software developer:** Flight controller specialized for aerial survailance.
-            #### Tech-Stack
+            **Software developer:** Flight controller specialized for aerial survailance.<br/>
+            **Tech-Stack:**<br/>
             -  C, C++, Qt, STM32-F4, Real-time, FreeRTOS, chibiOS
         
 
