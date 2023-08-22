@@ -52,28 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   You know, I've been in the software game for over a decade, hopping around different corners of the development universe. From crafting code for teeny-tiny embedded systems to conjuring up cloud-native marvels, I've seen it all.
 
-  But wait, there's more! My true claim to fame? I'm like the Usain Bolt of code when it comes to whipping up lightning-fast, real-time data analysis. Think milliseconds, my friends. So, whether it's software or a marathon, I'm here to make every millisecond count! :rocket:
+  But wait, there's more! My true claim to fame? I'm like the Usain Bolt of code when it comes to whipping up lightning-fast, real-time data analysis. Think milliseconds, my friends. So, whether it's software or a marathon, I'm here to make every millisecond count!
 
 content:
-#   - title: Projects # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: top-middle
-#         title: Super awesome project
-#         link: github.com/sproogen
-#         # link_text: Project Website
-#         additional_links:
-#           - title:  sproogen/modern-resume-theme
-#             icon: fab fa-github
-#             url: github.com/sproogen/modern-resume-theme
-#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#           #   icon: fab fa-github
-#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#         description: | # this will include new lines to allow paragraphs
-#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -88,8 +69,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Backend Development:** Full-Stack Django based CISCO Identity Services Engine (ISE) manager.<br/>
           **Backend/Development:** Online healthcare appointment (telemedication) platform.<br/>
-          **IoT Data engineering:** Large scale store equipment monitoring/maintenance.
-          #### Tech-Stack
+          **IoT Data engineering:** Large scale store equipment monitoring/maintenance.<br/>
+          **Tech-Stack**<br/>
           - Django, Celery, MySql, Redis, Numpy, Pandas, Dask, JS, Async, Multiprocess
           - FastApi, MySql, Redis
           - Embedded C, Django, Numpy, Dask, InfluxDB, Apcahe Kafka, Storm
